@@ -1,0 +1,8 @@
+tr td{
+    border: 2px solid black;
+}
+table{
+    width: 700px;
+    height: 250px;
+    border-collapse: collapse;
+}
